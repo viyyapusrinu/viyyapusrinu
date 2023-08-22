@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viyyapusrinu
-- 👀 I’m interested in ...data engineer
+- 👀 I’m interested in ...App development
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...java development
 - 📫 How to reach me ...to get better opportunities
